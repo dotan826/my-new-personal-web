@@ -6,6 +6,8 @@ Website for personal advertising.
 ## Link :
 [Personal Website](https://www.redboxteams.com/)
 
+OLD website project can be found here : [OLD Personal Website](https://github.com/dotan826/personal-web)
+
 ## Some Screenshots :
 
 ![Personal Site](/Screenshots/personal-site-main.jpg)
