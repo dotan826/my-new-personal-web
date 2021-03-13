@@ -1,0 +1,25 @@
+
+body{
+    background-color: #BDBDBD;
+    
+}
+
+@font-face{
+    font-family: "SecularOne";
+    src: url("../fonts/SecularOne-Regular.ttf");
+}
+
+* {
+    font-size: 16px;
+    font-family: SecularOne;
+}
+
+
+
+
+
+
+
+
+
+
